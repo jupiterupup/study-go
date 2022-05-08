@@ -1,5 +1,7 @@
-package study_go
+package main
+
+import "fmt"
 
 func main() {
-
+	fmt.Println("hell go")
 }
